@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Detector</string>
+    <string name="welcome_to_text_detector">Welcome to Text Detector from Image Application</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="result_here">Your result will appear here</string>
+    <string name="snap">Snap</string>
+    <string name="detect">Detect</string>
+</resources>
